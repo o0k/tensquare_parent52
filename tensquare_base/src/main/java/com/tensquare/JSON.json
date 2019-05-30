@@ -1,0 +1,39 @@
+{
+  "flag": true,
+  "code": 20000,
+  "message": "查询成功",
+  "data": [
+    {
+      "id": "1",
+      "labelname": "java",
+      "state": "1",
+      "count": null,
+      "fans": null,
+      "recommend": null
+    },
+    {
+      "id": "2",
+      "labelname": "PHP",
+      "state": "1",
+      "count": null,
+      "fans": null,
+      "recommend": null
+    },
+    {
+      "id": "3",
+      "labelname": "C++",
+      "state": "1",
+      "count": null,
+      "fans": null,
+      "recommend": null
+    },
+    {
+      "id": "4",
+      "labelname": "python",
+      "state": "1",
+      "count": null,
+      "fans": null,
+      "recommend": null
+    }
+  ]
+}
